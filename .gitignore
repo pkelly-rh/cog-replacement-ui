@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+npm-debug.log
+/dist/
+yarn.lock
+yarn-error.log
+coverage
+.husky/_
+.nyc_output
+coverage
+dist
+build
+*\ copy*
+*~
+*.tgz
